@@ -1,1 +1,3 @@
-Rust APIs, core backend logic, learning Rust
+✍️ Author’s Note
+Just a dev falling into the Rust rabbit hole 🐇🦀 
+Feel free to fork, suggest improvements, or drop cute crab emojis 🦀 in my issues tab.
